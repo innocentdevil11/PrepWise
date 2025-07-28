@@ -9,12 +9,10 @@ An AI-powered mock interview platform built with Next.js, Tailwind CSS, Firebase
 - 🔄 Session history and exercises stored in Firestore
 - ⚡ Responsive UI using Tailwind CSS
 
-## 📸 Screenshots
-(Add screenshots or GIFs here)
+
 
 ## 🚀 Technologies
 - **Frontend**: Next.js, Tailwind CSS
 - **Backend/AI**: Vapi Web SDK, Google Gemini API
 - **Auth & DB**: Firebase Auth + Firestore
 
-## 📂 Folder Structure
